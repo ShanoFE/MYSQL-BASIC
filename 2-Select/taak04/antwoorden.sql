@@ -1,5 +1,5 @@
 -- Opdracht 1 
-
+SELECT MAX(wage) FROM players
 -- Opdracht 2 
 
 -- Opdracht 3
