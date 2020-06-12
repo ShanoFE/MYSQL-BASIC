@@ -7,7 +7,7 @@ SELECT * FROM players WHERE club="Liverpool" AND age>"20"
 -- Opdracht 4
 SELECT * FROM players WHERE nationality="Netherlands" AND club="Ajax"
 -- Opdracht 5
-
+SELECT * FROM players WHERE club="Ajax" AND NOT nationality="Netherlands"
 -- Opdracht 6 
 SELECT name, age FROM players WHERE club="AZ Alkmaar"
 -- Opdracht 7 
